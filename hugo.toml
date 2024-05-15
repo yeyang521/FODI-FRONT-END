@@ -1,4 +1,5 @@
 baseURL = 'https://aaa.org/'
 languageCode = 'cn'
 title = 'My New Hugo Site'
-theme = "hugo-theme-stack"
+theme = "seven"
+
