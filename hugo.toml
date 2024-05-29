@@ -1,5 +1,5 @@
 baseURL = 'https://yeyang521.github.io/'
 languageCode = 'en-us'
-title = 'Lox Hugo Site'
+title = 'Lo Hugo Site'
 theme = "stack"
 
