@@ -1,5 +1,5 @@
-baseURL = 'https://aaa.org/'
+baseURL = 'https://yeyang521.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Lox Hugo Site'
 theme = "stack"
 
