@@ -13,5 +13,8 @@ menu:
         params:
             icon: user
 ---
-一个简单的自我介绍，暂时还没想好写什么。
+
+
+e-mail:yeyang521@vip.qq.com
+。
 
