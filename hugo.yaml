@@ -3,7 +3,7 @@ languageCode: en-us
 theme: stack
 paginate: 3
 title: 'Lo’s Blog'
-copyright: Example Person
+copyright: lox
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -50,7 +50,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        subtitle: 记录学习与生活.
+        subtitle: 记录学习与生活
         emoji: 🤍
         avatar:
             enabled: true
