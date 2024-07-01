@@ -15,7 +15,6 @@ menu:
 ---
 
 
-尝试了很多次写博客，也荒废了很多次。
-这次通过github pages + hugo搭建 再也不怕丢失了, 坚持就是胜利!
+坚持就是胜利!
 
 e-mail: <a href="mailto:yeyang521@vip.qq.com">yeyang521@vip.qq.com</a>
